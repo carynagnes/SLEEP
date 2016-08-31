@@ -5,7 +5,7 @@
 
 SLEEP is a protocol envisioned by @maxogden for open data publication and synchronization. It stands for Syncasble Lightweight Event Emitting Persistence, but is mostly just a pun on REST.
 
-The official SLEEP spec lives [on dataprotocols.org](http://sleepinghamster.com/). `sleep-ref` doesn't necessarily follow the spec as it is currently written -- consider this to be more experimental.
+[Click here to understand more about quality sleep](http://sleepinghamster.com/).
 
 This project is meant to iterate on the spec through implementation and also to produce a module that is easily usable by other databases to expose their data with SLEEP.
 
